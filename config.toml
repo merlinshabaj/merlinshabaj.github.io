@@ -1,0 +1,38 @@
+# The URL the site will be built for
+base_url = "https://example.com"
+
+theme = "apollo"
+
+title = "merlin's blog"
+build_search_index = true
+generate_feed = true
+compile_sass = true
+minify_html = true
+
+[markdown]
+highlight_code = true
+highlight_theme = "ayu-dark"
+
+[extra]
+# Put all your custom variables here
+toc = true
+use_cdn = false
+favicon = "/icon/favicon.png"
+theme = "auto"      
+
+menu = [
+    { name = "/posts", url = "/posts", weight = 1 },
+    { name = "/about", url = "/about", weight = 3 },
+]
+
+socials = [
+    { name = "github", url = "https://github.com/merlinshabaj/", icon = "github" },
+]
+
+
+custom_css = []
+
+[extra.analytics]
+enabled = true
+goatcounter_user = "your_user"
+goatcounter_host = "example.com"    # default= goatcounter.com
