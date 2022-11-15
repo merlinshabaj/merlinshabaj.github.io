@@ -85,8 +85,8 @@ Viktor also mentioned cases in which he helped such people overcome this kind of
 Viktor Frankl comes to the conclusion that the only freedom you have is the freedom to choose how to react to things. Ultimately Man is self-determined, choosing to become a saint or swine in the context of the concentration camp is at your own volition. 
 He also concludes that meaning is individual and unique to each person specifically. Moreover he says that the meaning of life always changes but never ceases to exist. Meaning can be found in three areas: achievement, love and suffering.
 
-Meaning through achievement can be found by creating a work or doing a deed. 
-Meaning through love can be found by encountering someone or experiencing something.
-Meaning through suffering can be found by the attitude we take toward these unavoidable situations.
+Meaning through achievement can be found by creating a work or doing a deed.<br>
+Meaning through love can be found by encountering someone or experiencing something.<br>
+Meaning through suffering can be found by the attitude we take toward these unavoidable situations.<br>
 
 `unfinished`
