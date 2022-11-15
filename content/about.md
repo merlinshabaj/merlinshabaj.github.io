@@ -3,4 +3,4 @@ title = "About"
 path = "about"
 +++
 
-Hi there, my name is Merlin!
+This blog is a test.
