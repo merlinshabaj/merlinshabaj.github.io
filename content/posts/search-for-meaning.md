@@ -1,6 +1,6 @@
 +++
 title = "Man's search for meaning - Viktor Frankl"
-date = "2022-11-15"
+date = "2022-11-14"
 +++
 # Book Summary
 ### Man’s search for meaning - Viktor Frankl
