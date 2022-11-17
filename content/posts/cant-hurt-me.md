@@ -1,5 +1,5 @@
 +++
-title = "Can't Hurt Me, David Goggins"
+title = "_Can't Hurt Me_, David Goggins"
 date = "2022-11-17"
 +++
 
