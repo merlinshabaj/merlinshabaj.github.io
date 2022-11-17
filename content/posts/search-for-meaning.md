@@ -1,5 +1,5 @@
 +++
-title = "Man's search for meaning - Viktor Frankl"
+title = "Man's search for meaning, Viktor Frankl"
 date = "2022-11-14"
 +++
 # Book Summary

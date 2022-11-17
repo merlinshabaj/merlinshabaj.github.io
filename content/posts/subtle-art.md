@@ -1,5 +1,5 @@
 +++
-title = "The subtle art of not giving a fuck - Mark Manson"
+title = "The subtle art of not giving a fuck, Mark Manson"
 date = "2022-11-15"
 +++
 # Book Summary
