@@ -4,7 +4,7 @@ date = "2022-11-18"
 +++
 
 # Book Thoughts 
-### Everything is fucked, Mark Manson
+### _Everything is fucked,_ Mark Manson
 <hr>
 
 ### Bullet Points

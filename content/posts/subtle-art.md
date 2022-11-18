@@ -3,7 +3,7 @@ title = "The subtle art of not giving a fuck, Mark Manson"
 date = "2022-11-15"
 +++
 # Book Summary
-### The Subtle Art of Not giving a Fuck - Mark Manson
+### _The Subtle Art of Not giving a Fuck,_ Mark Manson
 <hr>
 
 ### Most important thoughts:
