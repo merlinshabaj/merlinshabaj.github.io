@@ -22,8 +22,8 @@ date = "2022-11-18"
     - only question is whether you engage in it or avoid it 
 - "the quality of our lives is determined by the quality of our character, and the quality of our character is determined by our relationship with pain.”
 - pursuit of happiness is an avoidance of growth, maturity and virtue
-    - it is childish, it treats us and ourselves to some emotional end
-    - it 
+    - it is childish, it treats us and ourselves as means to some emotional end
+    - you will never be able to reach pure happiness in your life. 10 out of 10 happiness isn’t attainable
     - stoics didn’t pursuit happiness, but character, the ability to sustain pain and make appropriate sacrifices
 - virtues are forms of practicing antifragility, these principles gain from chaos and adversity, hence the name antifragile
     - adult values are antifragile
@@ -35,8 +35,7 @@ date = "2022-11-18"
     - “To numb ourselve to our pain is to numb ourselves of anything that matters in the world."
 - meditation is a way of dealing with pain
     - bringing thinking and feeling brain together 
-- Blue Dot Effect
+- _Blue Dot Effect_
     - there is a happiness baseline 
     - sometimes you are above or below but after some time you always find yourself back on the baseline 
     - even when your life drastically changes forever
-# Book Summary
