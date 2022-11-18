@@ -20,4 +20,5 @@ Throughout my whole life, ever since my awakening, I have been on the lookout to
 That is the reason why, I started to engage in waking up early, running, training, stretching, cold showers after my awakening.
 <br><br>
 David Goggins dedicated his life to _Will_. His core is different to my mine, although there are overlappings. 
-I understand David, depsite me not knowing him personally he feels pretty familiar to me. 
+I understand David, depsite me not knowing him personally he feels pretty familiar to me. <br>
+There is no glory in pursuing _Will_, no one will come and pat you on your back or will be there to admire what you’ve done. Ultimately no one can understand the pain you went through or are going through.
