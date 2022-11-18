@@ -3,4 +3,4 @@ title = "About"
 path = "about"
 +++
 
-This blog is a test.
+Informal posts about books I've read.
