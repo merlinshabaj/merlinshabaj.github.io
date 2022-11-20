@@ -39,3 +39,29 @@ date = "2022-11-18"
     - there is a happiness baseline 
     - sometimes you are above or below but after some time you always find yourself back on the baseline 
     - even when your life drastically changes forever
+<br><br>
+- human decide with their feelings, hence the name feelings economy
+- diversion and innovation are two ways of creating value in the market 
+    - innovation: upgrading a pain (e.g. new medicine, heart surgery, internet)
+    - diversion: means of avoiding pain (e.g. movie theaters, weekend trips, cocaine)
+    - “give the people what they want” works with innovations and is destructive when you give them (too many) diversions
+- “If the pursuit of happiness pulls us all back into childishness, then fake freedom conspires to keep us there.”
+     - variety doesn’t equal freedom
+- only real form of freedom, is throuegh self-limitation
+    - pleasure, diversions, variety all never last
+    - pain of physical exercise => healthier, stronger body
+    - sacrifice of a strong wokr ethic => more job opportunities, more money, control over on career
+    - willingness to engage in conflict => will free you to talk to anyone, align with people, support each other
+- most meaningful freedom comes from commitments
+    - some things are only attainable by depth, which greater commitment allows for
+        - having lived in one place for 50 years (familiarity and initmicay with people and culture)
+        - having played the guitar for 20 years (artistic expression)
+- fake freedoms(ff) demands more, while real freedom(rf) is the concsious decision to live withb less
+    - _ff_ is addictive (can always have more variety / options), has diminishing return (need more for the same high), sees the world as a transaction, requires the world to confirm to your will
+    - _ff_ consists mostly of options and variety (means to an end mentality)
+    - _rf_ is repetitive and predictable, has increasing returns, sees the world unconditionally, with the only victory being over your ownn desire, requires nothing besides your own will
+- North Korea isn’t free because they can’t choose what music to listen to or which tv channel to watch, but because they can’t choose their sacrifices
+- democracy requires citizens of strong maturity and character (you need internal and external sacrifices for democracy)
+- Plato identified cycles as well, freedom to tyranny (similarly to Stefan Aarnio)
+    - inevitable for democracy to lead to moral decay as they start to indulge in _ff_. Thusly people adopt more childish values, they don’t want to endure pain for the sake of greater freedom, which ends up with people wishin for a strong leader who fixes all the problems—a tyrant.
+
