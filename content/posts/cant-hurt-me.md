@@ -23,4 +23,6 @@ David Goggins dedicated his life to _Will_. His core is different to my mine, al
 I understand David, depsite me not knowing him personally he feels pretty familiar to me. <br>
 There is no glory in pursuing _Will_, no one will come and pat you on your back or will be there to admire what you’ve done. Ultimately no one can understand the pain you went through or are going through.
 <br><br>
-Seeking out pain, embracing it, engaging in it, develops your character in all facets of life. Pain is strongly related to purpose
+Seeking out pain, embracing it, engaging in it, develops your character in all facets of life. Pain is strongly related to purpose.
+<br><br>
+Peace is linked to all of that.
