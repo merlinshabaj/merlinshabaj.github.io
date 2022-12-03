@@ -13,13 +13,13 @@ I am going to refer solely to the first part of the book, since this is the part
 Generally speaking you can say that his philosophy is close to my personal philosophy of _Will_ and that there are many overlapping points. 
 <br><br>
 By reading this book I got a better understanding of my own philosphy regarding _Will_ and could refine some concepts. <br>
-In one instance he made me understand that knowledge must be a part of excercising in _Will_.<br>
+In one instance he made me understand that knowledge must be a part of exercising in _Will_.<br>
 <br><br>
 Interesting concepts:
 - The count is zero
     - each day you start at zero, which leaves you less room for excuses and weakness
 - being aggressive / proactive
-    - not meant in a people attacking way but in a weakness attacking way
+    - not meant in a _people_-attacking way but in a _weakness_-attacking way
     - attacking your weakness relentlessly and always striving / seeking out to tackle your weaknesses
 - “The truth is what makes discipline unavoidable.”
 
