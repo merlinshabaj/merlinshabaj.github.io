@@ -24,4 +24,5 @@ Interesting concepts:
 - “The truth is what makes discipline unavoidable.”
 
 ##### Recommendation
-Although this book is almost written in a way where the focus lies on motivating the reader, I think the first part is a good read to gain a partial overview of my own principle of _Will_.
+Although this book is almost written in a way where the focus lies on motivating the reader, I think the first part is a good read to gain a **partial** overview of my own principle of _Will_.<br>
+The second part isn't a good read.
