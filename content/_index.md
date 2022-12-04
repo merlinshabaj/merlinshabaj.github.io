@@ -1,4 +1,4 @@
 +++
 [extra]
-section_path = "posts/_index.md"
+section_path = "books/_index.md"
 +++
