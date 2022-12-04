@@ -4,7 +4,7 @@ date = "2022-08-26"
 +++
 
 # Fighting
-##### Why do I have the desire to fight, stepping into the cage and with that building a warrior story / character?
+### Why do I have the desire to fight, stepping into the cage?
 <hr>
 
 For a long time I have been interested in everything regarding fighting. Even when my story began and I started to go for runs in the morning, at some point I trained my kicking ability and watched a lot of videos about learning martial arts. <br>
