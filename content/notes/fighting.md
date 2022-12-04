@@ -18,8 +18,8 @@ I know that I have a talent for this, throwing myself into the fire and coming o
 The story of being this fighter, this Rocky type of guy, being in extreme adversity and overcoming it, is a wonderful story, which I to some degree already live but which I would also like to foster even more and fighting is the thing that can accomplish that in the right way. I love to indulge in exactly that, it is beautiful.
 
 ### Update 4th of December
-Last week I went for a 34km run, the longest distance I’ve ever run so far and a 13km jump from the second longest distance I’ve ever run. This run was extremely challenging and I would say I exactly tapped into the human core (or just my core) with all of these emotions described above. <br>
+Last week I went for a 34km run, the longest distance I’ve ever run so far and a 13km jump from the second longest distance I’ve ever run. This run was extremely challenging and I would say I exactly tapped into the my core with all of the emotions described above. <br>
 This means it is possible to tap into that with just running. <br>
-Furthermore I disagree with what I said regarding, that running is open ended and fighting isn’t, both are open ended. I don’t think I could ever feel complete after a fight (longer than just a moment). Same goes for running.
+Furthermore I disagree with what I said regarding, that running is open ended and fighting isn’t, both are open ended. I don’t think I could ever feel complete after a fight, for longer than just a moment. Same goes for running.
 <br><br>
-I completly forgot about that and in a recent note I talked about these emotions as well, just to find them already written down here.<br>
+I completly forgot about that and in a recent note I talked about exactly these emotions, just to find them already written down here. Even though I didn't have the experience back then, I perfectly anticipated how this would play out.<br>
